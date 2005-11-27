@@ -1,0 +1,22 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1410
+
+The workspace plugin allows you to easily access groups of frequently used
+files and run any command on a selected set of files from the workspace.
+
+You can create one or more groups in a workspace. Each group can contain
+additional sub-groups. The workspace and the groups can contain one or more
+filenames.
+
+The contents of a workspace are saved in a user specified file. This allows
+you to create multiple workspaces and to load the desired workspace when
+needed.
+
+You can run any Vim ex command or an external shell command on a selected
+group of files from the workspace.
+
+For more information about using this plugin, after installing the
+workspace plugin, use the ":help workspace" command.
+
+The workspace plugin manual is also available online at:
+     http://www.geocities.com/yegappan/workspace/workspace.html
+
